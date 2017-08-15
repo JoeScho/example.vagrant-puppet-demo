@@ -1,0 +1,11 @@
+{
+  "name": "vagrant-puppet-joescho",
+  "version": "1.0.0",
+  "description": "A simple demonstration of how vagrant can be used with puppet to provision VMs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@JoeScho <joeschofield@live.co.uk>",
+  "license": "ISC"
+}
